@@ -1,5 +1,5 @@
-# AI-MiniProject-
-AI-Driven Snake Game Using Deep Q-Learning
+
+# AI-Driven Snake Game Using Deep Q-Learning
 ### In an AI-driven snake game using deep Q-learning, the snake's behavior and decision-making are controlled by an artificial intelligence algorithm known as deep Q-learning. Unlike a traditional snake game where the player manually controls the snake, here the snake's actions are determined by the AI agent.
 
 Deep Q-learning is a reinforcement learning technique that uses a neural network (deep neural network) to approximate the Q-values, which represent the expected future rewards for each possible action in a given state. The AI agent learns through trial and error, continuously updating its Q-values based on the rewards received from the game environment.
